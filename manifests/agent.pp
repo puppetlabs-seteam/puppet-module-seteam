@@ -1,0 +1,3 @@
+class seteam::agent {
+
+}
